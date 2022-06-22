@@ -1,0 +1,8 @@
+.vscode/*
+dist/*
+.DS_Store
+*.log
+*.egg-info/
+*.egg
+eggs/
+.eggs/
